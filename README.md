@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 Hi, I’m mizan
 
 -->
-<h1 align="center">Hello World 👋,I'm Mijanur Rahman</h1>
+<h1 align="center">Hello World 👋, I'm Mijanur Rahman</h1>
 <h3 align="center">Hey it's me Mizan. I have a keen interest in Data Structure and Algorithm, C#, C++ and Web Development. I am a passionate Competitive Programmer, problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizan192&label=Profile%20views&color=0e75b6&style=flat" alt="mizan192" /> </p>
