@@ -7,7 +7,7 @@ Hi, I’m mizan
 
 -->
 <h1 align="center">Hello World 👋, I'm Mijanur Rahman</h1>
-<h3 align="center">Hey it's me Mizan. I have a keen interest in Data Structure and Algorithm, C#, C++ and Web Development. I am a passionate Competitive Programmer, problem solver.</h3>
+<h3 align="center">Hey it's me Mizan. I am a passionate Competitive Programmer, problem solver. I have a keen interest in Data Structure and Algorithm, C#, C++ and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizan192&label=Profile%20views&color=0e75b6&style=flat" alt="mizan192" /> </p>
 
@@ -19,13 +19,13 @@ Hi, I’m mizan
 
 - 👯 I’m looking to collaborate on **.NET and Web Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mizan192](https://github.com/mizan192)
+- 👨‍💻 All of my projects are available at [here](https://github.com/mizan192)
 
 - 💬 Ask me about **Problem Solving, Data Structure and Algorithm.**
 
 - 📫 How to reach me **miz1998an@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hy-K6_6lOyMoyOq_K7bGYhAA7RraX7Vh/view?usp=sharing](https://drive.google.com/file/d/1hy-K6_6lOyMoyOq_K7bGYhAA7RraX7Vh/view?usp=sharing)
+- 📄 Know about my experiences [see](https://drive.google.com/file/d/1hy-K6_6lOyMoyOq_K7bGYhAA7RraX7Vh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
