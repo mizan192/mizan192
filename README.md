@@ -11,7 +11,6 @@ Hi, I’m mizan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizan192&label=Profile%20views&color=0e75b6&style=flat" alt="mizan192" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizan192" alt="mizan192" /></a> </p>
 
 - 🔭 I’m currently working on **Problem Solving**
 
@@ -46,3 +45,5 @@ Hi, I’m mizan
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizan192&show_icons=true&locale=en" alt="mizan192" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizan192&" alt="mizan192" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizan192" alt="mizan192" /></a> </p>
