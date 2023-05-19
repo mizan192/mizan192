@@ -9,6 +9,18 @@ Hi, I’m mizan
 <h1 align="center">Hello World 👋, I'm Mijanur Rahman</h1>
 <h3 align="center">Hey it's me Mizan. I am a passionate Competitive Programmer and problem solver. I have a keen interest in Data Structure and Algorithm, C#, C++ and Web Development.</h3>
 
+<a href="https://codeforces.com/profile/return_toSleep">
+    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/return_toSleep"/>
+</a>
+<a href="https://leetcode.com/Mizan19/">
+    <img alt="Leetcode" src="https://cp-logo.vercel.app/leetcode/Mizan19"/>
+</a>
+<a href="https://www.codechef.com/users/mizan2">
+    <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/mizan2"/>
+</a>
+<a href="https://atcoder.jp/users/Mizan1">
+    <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/Mizan1"/>
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizan192&label=Profile%20views&color=0e75b6&style=flat" alt="mizan192" /> </p>
 
 
